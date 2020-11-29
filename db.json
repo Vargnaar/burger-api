@@ -1,0 +1,40 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Mammoth",
+            "restaurant": "varghalla",
+            "web": "www.varghalla.com",
+            "descriptition": "A coloussal triple meat patty delux",
+            "ingredients": ["beef", "american cheese", "special sauce", "dill pickles", "bacon", "onion jam"],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number":"75",
+                    "line1": "Vemm Street",
+                    "line2": "Clapham",
+                    "postpone": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Monster",
+            "restaurant": "varghalla",
+            "web": "www.varghalla.com",
+            "descriptition": "Truly the spiritual successor to the double quarter pounder!",
+            "ingredients": ["beef", "american cheese", "beef gravy", "dill pickles", "bacon", "brown onion"],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number":"75",
+                    "line1": "Vemm Street",
+                    "line2": "Clapham",
+                    "postpone": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        }
+    ]
+}
