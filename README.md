@@ -1,7 +1,19 @@
-# burger-api
-Hello.
+# Varghalla Burger API
 
-Please go away. I don't know what I am doing and I am honestly just following a tutorial I saw on youtube.
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Worthy of Note](#Special-Thanks)
 
-If you found this and you know me and have spoken to me at least once, DM on discord with the following sequence of numbers and letters: I Love you and you're very pretty
-
+## General info
+Started off as a fun youtube tutorial to help teach myself how to build and deploy an api buuuut, now I am taking it a bit more seriously and expanding. If you have me on discord and we know each other, message me with your favorite burgers for me to add!
+	
+## Technologies
+Project is created with:
+* node.js
+* hmtl
+* css
+* javascript
+	
+## Special Thanks
+Caek, Horsie, Dark, Spoopy, Bee and anyone else who knows about this and has encouraged/helped me <3
