@@ -1,4 +1,5 @@
 # Varghalla Burger API
+🍔🍔🍔🍔🍔🍔🍔🍔🍔 B O R G A R 🍔🍔🍔🍔🍔🍔🍔🍔🍔
 
 ## Table of contents
 * [General info](#general-info)
