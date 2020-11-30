@@ -16,6 +16,7 @@ Project is created with:
 * html
 * css
 * javascript
+* Heroku
 	
 
 ## Website 
@@ -23,6 +24,6 @@ Project is created with:
 * https://varghalla-burger-api.herokuapp.com
 #### Endpoints
 * /burgers
-More to come soon!
+##### More to come soon!
 ## Special Thanks 
 Caek, Horsie, Dark, Spoopy, Bee and anyone else who knows about this and has encouraged/helped me <3
