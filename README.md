@@ -11,7 +11,7 @@ Started off as a fun youtube tutorial to help teach myself how to build and depl
 ## Technologies
 Project is created with:
 * node.js
-* hmtl
+* html
 * css
 * javascript
 	
