@@ -29,12 +29,30 @@
                 {
                     "addressid": "0",
                     "number":"69",
-                    "line1": "V99 Hlidskjalf Manort",
+                    "line1": "99 Hlidskjalf Manor",
                     "line2": "Varghalla",
                     "postpone": "80085",
                     "country": "Norway"
                 }
             ]
-        }
+        },
+        {
+            "id": 2,
+            "name": "Bezerker Breakfast Burger",
+            "restaurant": "varghalla",
+            "web": "www.varghalla.com",
+            "description": "You need energy to fight! This ought to keep you going for a while!",
+            "ingredients": ["brioche bun", "american cheese", "buffalo smokey bbq sauce", "dill pickles", "bacon", "egg", "maple syrup"],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number":"69",
+                    "line1": "99 Hlidskjalf Manor",
+                    "line2": "Varghalla",
+                    "postcode": "80085",
+                    "country": "Norway"
+                }
+            ]
+        },
     ]
 }
