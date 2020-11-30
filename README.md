@@ -4,6 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Site](#website)
 * [Worthy of Note](#Special-Thanks)
 
 ## General info
@@ -16,5 +17,12 @@ Project is created with:
 * css
 * javascript
 	
-## Special Thanks
+
+## Website 
+### Main Site
+https://varghalla-burger-api.herokuapp.com
+### Burger Endpoint
+/burgers
+
+## Special Thanks 
 Caek, Horsie, Dark, Spoopy, Bee and anyone else who knows about this and has encouraged/helped me <3
