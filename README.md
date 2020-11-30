@@ -19,10 +19,10 @@ Project is created with:
 	
 
 ## Website 
-### Main Site
-https://varghalla-burger-api.herokuapp.com
-### Burger Endpoint
-/burgers
-
+#### Main Site
+* https://varghalla-burger-api.herokuapp.com
+#### Endpoints
+* /burgers
+More to come soon!
 ## Special Thanks 
 Caek, Horsie, Dark, Spoopy, Bee and anyone else who knows about this and has encouraged/helped me <3
