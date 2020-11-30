@@ -10,17 +10,17 @@
             "addresses": [
                 {
                     "addressid": "0",
-                    "number":"75",
-                    "line1": "Vemm Street",
-                    "line2": "Clapham",
-                    "postpone": "SW4 0BD",
-                    "country": "United Kingdom"
+                    "number":"69",
+                    "line1": "99 Hlidskjalf Manor",
+                    "line2": "Varghalla",
+                    "postcode": "80085",
+                    "country": "Norway"
                 }
             ]
         },
         {
             "id": 1,
-            "name": "Monster",
+            "name": "World Serpent",
             "restaurant": "varghalla",
             "web": "www.varghalla.com",
             "descriptition": "Truly the spiritual successor to the double quarter pounder!",
@@ -28,11 +28,11 @@
             "addresses": [
                 {
                     "addressid": "0",
-                    "number":"75",
-                    "line1": "Vemm Street",
-                    "line2": "Clapham",
-                    "postpone": "SW4 0BD",
-                    "country": "United Whore Of Babylon"
+                    "number":"69",
+                    "line1": "V99 Hlidskjalf Manort",
+                    "line2": "Varghalla",
+                    "postpone": "80085",
+                    "country": "Norway"
                 }
             ]
         }
