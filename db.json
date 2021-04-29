@@ -22,7 +22,7 @@
             "id": 1,
             "name": "World Serpent",
             "restaurant": "varghalla",
-            "web": "www.varghalla.com",
+            "web": "www.varghalla.com/borgar",
             "description": "Truly the spiritual successor to the double quarter pounder!",
             "ingredients": ["beef", "american cheese", "beef gravy", "dill pickles", "bacon", "brown onion"],
             "addresses": [
@@ -40,9 +40,27 @@
             "id": 2,
             "name": "Bezerker Breakfast Burger",
             "restaurant": "varghalla",
-            "web": "www.varghalla.com",
+            "web": "www.varghalla.com/borgar",
             "description": "You need energy to fight! This ought to keep you going for a while!",
             "ingredients": ["brioche bun", "american cheese", "buffalo smokey bbq sauce", "dill pickles", "bacon", "egg", "maple syrup"],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number":"69",
+                    "line1": "99 Hlidskjalf Manor",
+                    "line2": "Varghalla",
+                    "postcode": "80085",
+                    "country": "Norway"
+                }
+            ]
+        },
+                {
+            "id": 3,
+            "name": "Solaringen",
+            "restaurant": "varghalla",
+            "web": "www.varghalla.com/borgar",
+            "description": "Spicy powerful like the sun.",
+            "ingredients": ["brioche bun", "american cheese", "garlic buffalo sauce", "dill pickles", "smoked canadian bacon", "Oki fried chicken breast", "blue cheese sauce"],
             "addresses": [
                 {
                     "addressid": "0",
