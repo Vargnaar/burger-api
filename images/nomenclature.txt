@@ -1,0 +1,5 @@
+# Image nomenclature
+All images to be used for burgers in this folder are to adhere to the following naming convention:
++ All images to be in jpeg format
++ All images to be in lower case
++ All images must have a "-brgr" added to the end of their name
