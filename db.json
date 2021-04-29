@@ -2,11 +2,11 @@
     "burgers": [
         {
             "id": 0,
-            "name": "Mammoth",
+            "name": "Brannsveld",
             "restaurant": "varghalla",
             "web": "www.varghalla.com",
-            "description": "A coloussal triple meat patty delux",
-            "ingredients": ["beef", "american cheese", "special sauce", "dill pickles", "bacon", "onion jam"],
+            "description": "A double meat monster slayer!",
+            "ingredients": ["beef", "american cheese", "special sauce", "turkey bacon", "over easy egg", "sriracha ketchup"],
             "addresses": [
                 {
                     "addressid": "0",
