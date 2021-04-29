@@ -24,7 +24,7 @@ Project is created with:
 * https://varghalla-burger-api.herokuapp.com
 #### Endpoints
 * /burgers
-* /images (coming soon)
+* /images
 * /random (coming soon)
 ##### More to come soon!
 ## Special Thanks 
