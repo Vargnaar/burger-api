@@ -7,6 +7,7 @@
             "web": "www.varghalla.com",
             "description": "A double meat monster slayer!",
             "ingredients": ["beef", "american cheese", "special sauce", "turkey bacon", "over easy egg", "sriracha ketchup"],
+            "image": "/images/brannsvel-brgr.jpg",
             "addresses": [
                 {
                     "addressid": "0",
@@ -61,6 +62,7 @@
             "web": "www.varghalla.com/borgar",
             "description": "Spicy powerful like the sun.",
             "ingredients": ["brioche bun", "american cheese", "garlic buffalo sauce", "dill pickles", "smoked canadian bacon", "Oki fried chicken breast", "blue cheese sauce"],
+            "image": "/images/solaringen-brgr.jpg,
             "addresses": [
                 {
                     "addressid": "0",
