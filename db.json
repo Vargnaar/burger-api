@@ -62,7 +62,7 @@
             "web": "www.varghalla.com/borgar",
             "description": "Spicy powerful like the sun.",
             "ingredients": ["brioche bun", "american cheese", "garlic buffalo sauce", "dill pickles", "smoked canadian bacon", "Oki fried chicken breast", "blue cheese sauce"],
-            "image": "/images/solaringen-brgr.jpg,
+            "image": "/images/solaringen-brgr.jpg",
             "addresses": [
                 {
                     "addressid": "0",
